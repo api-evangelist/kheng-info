@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kheng.info is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kheng.info/
+Kheng.info provides an online tool for Khmer word segmentation and annotation. It accepts Khmer text input and returns a clickable document where each word is segmented, defined, and linked to audio recordings. The service helps language learners and researchers explore Khmer language structure, offering definitions, pronunciations, and linguistic data for each token in the submitted text.
+
+**Areas:** Company · Language · NLP · Khmer · Tool
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kheng.info/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kheng-info/](https://apis.io/providers/kheng-info/).
